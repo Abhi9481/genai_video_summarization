@@ -88,7 +88,7 @@ def turn_into_story(summary):
 st.title("📺 Abhishek - YouTube/Uploaded Video Summarizer Using Groq LLM")
 #st.image("PragyanAI_Transperent.png")
 
-youtube_url = st.text_input("Paste a YouTube video URL:", placeholder="https://www.youtube.com/watch?v=example")
+youtube_url = st.text_input("Paste a YouTube video URL:", placeholder="https://www.youtube.com/watch?v=83sdwFOL1r8")
 
 # Handle video input from YouTube URL
 if youtube_url:
